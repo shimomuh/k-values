@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{20ABA33B-496C-2736-F70D-41D104459835}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/ShareController.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Deck.cs" Line="19" Column="127" />
+      <File FileName="Assets/Scripts/Card.cs" Line="18" Column="19" />
+      <File FileName="Assets/Scripts/SceneController.cs" Line="11" Column="28" />
+      <File FileName="Assets/Scripts/DeciceCardController.cs" Line="31" Column="39" />
+      <File FileName="Assets/Scripts/ShareController.cs" Line="5" Column="35" />
+      <File FileName="Assets/Scripts/ShareController1.cs" Line="15" Column="6" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="KValues" expanded="True" selected="True" />
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="KValues" expanded="True" selected="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="9d750fb3-8a4e-4273-b441-0f4f45eedce8" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
